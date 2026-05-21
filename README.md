@@ -1,4 +1,4 @@
-##   🐍    S3b4x2101    🚀
+##   🐍    S3b4x    🚀
 
 <!--
 **Sebax2101/sebax2101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
